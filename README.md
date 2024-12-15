@@ -11,13 +11,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+| Incident Response and Mitigation          | <a href="https://google.com">Detection Lab</a>|
+| Network Hardening and Vulnerability Management | <a href="https://google.com">Detection Lab</a>|
+| Network Security Incident Response         | SOC Automation Lab|
+| Advanced Incident Response and Mitigation| SOC Automation Lab|
+| File Integrity Checker                  | SOC Automation Lab|
+| Incident Analysis                      | SOC Automation Lab|
+| Network Instrusion Detection and Mitigation                      | SOC Automation Lab|
+| Password Encrypter                      | <a href="File_Integrity_Checker.py">Project</a>|
+| Linux File Permissions Management                      |<a href="https://1drv.ms/w/c/953e63bea5dc806d/EdFEoIP25llDoiWiQ4E85tEB_CUWIzY83JHPqPeHqe3OxA?e=izp8yE">Project</a>|
+| SQL-Based Security Incident Investigation and Data Filtering                      | <a href="https://1drv.ms/w/c/953e63bea5dc806d/Ee5BX_OWMPRMnf8DGgZWp08BygdvhCOjpGLlqGl1Fr58bw?e=n2xsgG">Project</a>|
+| Home Network Asset Management                      | <a href="https://1drv.ms/x/c/953e63bea5dc806d/EXJRunbZE9tAv046-99xIWoBdMFC_7gA7B-px4cnyuAHwA?e=xP2BGv">Project</a>|
 ## Tools
 
 ### Network
