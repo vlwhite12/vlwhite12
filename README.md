@@ -11,17 +11,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Incident Response and Mitigation          | <a href="https://google.com">Detection Lab</a>|
-| Network Hardening and Vulnerability Management | <a href="https://google.com">Detection Lab</a>|
-| Network Security Incident Response         | SOC Automation Lab|
-| Advanced Incident Response and Mitigation| SOC Automation Lab|
-| File Integrity Checker                  | SOC Automation Lab|
-| Incident Analysis                      | SOC Automation Lab|
-| Network Instrusion Detection and Mitigation                      | SOC Automation Lab|
-| Password Encrypter                      | <a href="File_Integrity_Checker.py">Project</a>|
-| Linux File Permissions Management                      |<a href="https://1drv.ms/w/c/953e63bea5dc806d/EdFEoIP25llDoiWiQ4E85tEB_CUWIzY83JHPqPeHqe3OxA?e=izp8yE">Project</a>|
-| SQL-Based Security Incident Investigation and Data Filtering                      | <a href="https://1drv.ms/w/c/953e63bea5dc806d/Ee5BX_OWMPRMnf8DGgZWp08BygdvhCOjpGLlqGl1Fr58bw?e=n2xsgG">Project</a>|
-| Home Network Asset Management                      | <a href="https://1drv.ms/x/c/953e63bea5dc806d/EXJRunbZE9tAv046-99xIWoBdMFC_7gA7B-px4cnyuAHwA?e=xP2BGv">Project</a>|
+| OS Hardening | <a href= "https://1drv.ms/w/c/953e63bea5dc806d/EdwD9iKDzCFHvSHxgSGBWfMBbq9OvohKYKfsSAxTZNgaHQ?e=3N4hPf">Project</a>|
+| Security Incident Response         |<a href="https://1drv.ms/w/c/953e63bea5dc806d/EZx5Bih-j8lPo9oAIv3yw4QBM-errF2VJgfw5RhAeJk8QQ?e=08Yfsj">Project</a>|
+| Security Audit                      | <a href="https://1drv.ms/w/c/953e63bea5dc806d/ERH9966awnZNi3VikQeq0GoBhCUWEBimZlQeJ-pdvS1sPw?e=d9XpNt">Project</a>|
+| Password Encryption                      | <a href="Password Checker.py">Project</a>|
+| Linux                      |<a href="https://1drv.ms/w/c/953e63bea5dc806d/EdFEoIP25llDoiWiQ4E85tEB_CUWIzY83JHPqPeHqe3OxA?e=izp8yE">Project</a>|
+| SQL                     | <a href="https://1drv.ms/w/c/953e63bea5dc806d/Ee5BX_OWMPRMnf8DGgZWp08BygdvhCOjpGLlqGl1Fr58bw?e=n2xsgG">Project</a>|
+| Asset Management                      | <a href="https://1drv.ms/x/c/953e63bea5dc806d/EXJRunbZE9tAv046-99xIWoBdMFC_7gA7B-px4cnyuAHwA?e=xP2BGv">Project</a>|
 ## Tools
 
 ### Network
@@ -46,13 +42,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-0000FF?&style=for-the-badge&logo=Google&logoColor=blue" />
+
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+| Projects                                      |
+|-----------------------------------------------|
+| <a href= "https://1drv.ms/w/c/953e63bea5dc806d/EdwD9iKDzCFHvSHxgSGBWfMBbq9OvohKYKfsSAxTZNgaHQ?e=3N4hPf">Network Hardening and Vulnerability Management</a>|
+| <a href="https://1drv.ms/w/c/953e63bea5dc806d/EZx5Bih-j8lPo9oAIv3yw4QBM-errF2VJgfw5RhAeJk8QQ?e=08Yfsj">Network Security Incident Response</a>|
+| <a href="File_Integrity_Checker.py"> File Integrity Checker</a>|
+| <a href="https://1drv.ms/w/c/953e63bea5dc806d/ERH9966awnZNi3VikQeq0GoBhCUWEBimZlQeJ-pdvS1sPw?e=d9XpNt">Botium Toys Security Audit</a>|
+| <a href="Password Checker.py">Password Encrypter</a>|
+| <a href="https://1drv.ms/w/c/953e63bea5dc806d/EdFEoIP25llDoiWiQ4E85tEB_CUWIzY83JHPqPeHqe3OxA?e=izp8yE">Linux File Permissions Management</a>|
+| <a href="https://1drv.ms/w/c/953e63bea5dc806d/Ee5BX_OWMPRMnf8DGgZWp08BygdvhCOjpGLlqGl1Fr58bw?e=n2xsgG">SQL-Based Security Incident Investigation and Data Filtering</a>|
+| <a href="https://1drv.ms/x/c/953e63bea5dc806d/EXJRunbZE9tAv046-99xIWoBdMFC_7gA7B-px4cnyuAHwA?e=xP2BGv">Home Network Asset Management</a>|
