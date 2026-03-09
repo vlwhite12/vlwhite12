@@ -1,60 +1,62 @@
-# Hello, I'm Kartik 
+# Hi, I'm Kartik 👋
 <a href="https://linkedin.com/in/kartikk1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/vlwhite12"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
-I am a undergraduate with a profound interest in technology and a dedication to solving complex problems.
+B.S. Computer Science @ University of Washington (GPA: 3.7) | Co-Founder @ KRES Solutions | Software Engineering Intern @ AffableOne.ai
 
-## Objective
+I build full stack applications, AI-powered tools, and backend infrastructure. I have shipped production systems in healthcare AI, authentication, and data pipelines across two internships and my own software company.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+---
 
-## Skills
+## Experience Highlights
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| OS Hardening | <a href= "https://1drv.ms/w/c/953e63bea5dc806d/EdwD9iKDzCFHvSHxgSGBWfMBbq9OvohKYKfsSAxTZNgaHQ?e=3N4hPf">Project</a>|
-| Security Incident Response         |<a href="https://1drv.ms/w/c/953e63bea5dc806d/EZx5Bih-j8lPo9oAIv3yw4QBM-errF2VJgfw5RhAeJk8QQ?e=08Yfsj">Project</a>|
-| Security Audit                      | <a href="https://1drv.ms/w/c/953e63bea5dc806d/ERH9966awnZNi3VikQeq0GoBhCUWEBimZlQeJ-pdvS1sPw?e=d9XpNt">Project</a>|
-| Password Encryption                      | <a href="Password Checker.py">Project</a>|
-| Linux                      |<a href="https://1drv.ms/w/c/953e63bea5dc806d/EdFEoIP25llDoiWiQ4E85tEB_CUWIzY83JHPqPeHqe3OxA?e=izp8yE">Project</a>|
-| SQL                     | <a href="https://1drv.ms/w/c/953e63bea5dc806d/Ee5BX_OWMPRMnf8DGgZWp08BygdvhCOjpGLlqGl1Fr58bw?e=n2xsgG">Project</a>|
-| Asset Management                      | <a href="https://1drv.ms/x/c/953e63bea5dc806d/EXJRunbZE9tAv046-99xIWoBdMFC_7gA7B-px4cnyuAHwA?e=xP2BGv">Project</a>|
-## Tools
+- **AffableOne.ai** — Built a HIPAA-compliant audit logger, multi-provider auth system, and D3.js regulatory graph visualization
+- **Lucenne LLC** — Integrated OpenAI with Epic Systems via FHIR R4 to automate medical billing, and built an AI tutoring platform with a RAG pipeline
+- **KRES Solutions** — Co-founded a software services company delivering custom portals and automation tools to small business clients
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+---
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+## Technical Skills
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+**Languages & Libraries**
+![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-0000FF?&style=for-the-badge&logo=Google&logoColor=blue" />
+**Frameworks & Cloud**
+![React](https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?&style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?&style=for-the-badge&logo=d3.js&logoColor=white)
 
-</div>
+**Tools**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?&style=for-the-badge&logo=playwright&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black)
+
+---
 
 ## Projects
 
-| Projects                                      |
-|-----------------------------------------------|
-| <a href= "https://1drv.ms/w/c/953e63bea5dc806d/EdwD9iKDzCFHvSHxgSGBWfMBbq9OvohKYKfsSAxTZNgaHQ?e=3N4hPf">Network Hardening and Vulnerability Management</a>|
-| <a href="https://1drv.ms/w/c/953e63bea5dc806d/EZx5Bih-j8lPo9oAIv3yw4QBM-errF2VJgfw5RhAeJk8QQ?e=08Yfsj">Network Security Incident Response</a>|
-| <a href="File_Integrity_Checker.py"> File Integrity Checker</a>|
-| <a href="https://1drv.ms/w/c/953e63bea5dc806d/ERH9966awnZNi3VikQeq0GoBhCUWEBimZlQeJ-pdvS1sPw?e=d9XpNt">Botium Toys Security Audit</a>|
-| <a href="Password Checker.py">Password Encrypter</a>|
-| <a href="https://1drv.ms/w/c/953e63bea5dc806d/EdFEoIP25llDoiWiQ4E85tEB_CUWIzY83JHPqPeHqe3OxA?e=izp8yE">Linux File Permissions Management</a>|
-| <a href="https://1drv.ms/w/c/953e63bea5dc806d/Ee5BX_OWMPRMnf8DGgZWp08BygdvhCOjpGLlqGl1Fr58bw?e=n2xsgG">SQL-Based Security Incident Investigation and Data Filtering</a>|
-| <a href="https://1drv.ms/x/c/953e63bea5dc806d/EXJRunbZE9tAv046-99xIWoBdMFC_7gA7B-px4cnyuAHwA?e=xP2BGv">Home Network Asset Management</a>|
+| Project | Stack | Description |
+|---|---|---|
+| [Financial Fraud Detection Model](https://github.com/vlwhite12) | Python, Pandas, SQL | Random Forest classifier with 94% precision on 500K+ transactions using SMOTE oversampling |
+| [Monte Carlo Poker Solver](https://github.com/vlwhite12) | Python, NumPy, Multiprocessing | Texas Hold'em equity calculator running 10,000+ simulations per second with sub-200ms latency |
+| [Clinical Note Summarizer](https://github.com/vlwhite12) | Python, OpenAI, ChromaDB, FastAPI | RAG pipeline that extracts structured diagnoses, medications, and follow-up actions from clinical notes |
+
+---
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-IBM%20Digital%20Forensics-054ADA?&style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</div>
