@@ -47,7 +47,7 @@ I build full stack applications, AI-powered tools, and backend infrastructure. I
 
 | Project | Stack | Description |
 |---|---|---|
-| [Financial Fraud Detection Model](https://github.com/vlwhite12) | Python, Pandas, SQL | Random Forest classifier with 94% precision on 500K+ transactions using SMOTE oversampling |
+| [Financial Fraud Detection Model](https://github.com/vlwhite12/FinFraud) | Python, Pandas, SQL | Random Forest classifier with 94% precision on 500K+ transactions using SMOTE oversampling |
 | [Monte Carlo Poker Solver](https://github.com/vlwhite12) | Python, NumPy, Multiprocessing | Texas Hold'em equity calculator running 10,000+ simulations per second with sub-200ms latency |
 | [Clinical Note Summarizer](https://github.com/vlwhite12) | Python, OpenAI, ChromaDB, FastAPI | RAG pipeline that extracts structured diagnoses, medications, and follow-up actions from clinical notes |
 
