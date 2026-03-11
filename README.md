@@ -47,6 +47,7 @@ I build full stack applications, AI-powered tools, and backend infrastructure. I
 
 | Project | Stack | Description |
 |---|---|---|
+|[PhishCatch AI](https://github.com/vlwhite12/AIPhishing) | Python, FastAPI, Next.js, TypeScript, Ollama, Chrome Extension (MV3) | Full-stack AI phishing detector with local LLM inference, JWT auth, prompt injection defenses, and a Gmail Chrome extension |
 | [Financial Fraud Detection Model](https://github.com/vlwhite12/FinFraud) | Python, Pandas, SQL | Random Forest classifier with 94% precision on 500K+ transactions using SMOTE oversampling |
 | [Monte Carlo Poker Solver](https://github.com/vlwhite12/MonteCarlo) | Python, NumPy, Multiprocessing | Texas Hold'em equity calculator running 10,000+ simulations per second with sub-200ms latency |
 | [Clinical Note Summarizer](https://github.com/vlwhite12/Clinical-Notes) | Python, OpenAI, ChromaDB, FastAPI | RAG pipeline that extracts structured diagnoses, medications, and follow-up actions from clinical notes |
