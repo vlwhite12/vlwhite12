@@ -1,6 +1,6 @@
 # Hi, I'm Kartik 👋
 <a href="https://linkedin.com/in/kartikk1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/vlwhite12"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/kkhanna-dev"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
 B.S. Computer Science @ University of Washington (GPA: 3.7) | Co-Founder @ KRES Solutions | Software Engineering Intern @ AffableOne.ai
 
